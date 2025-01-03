@@ -1,5 +1,7 @@
-
-![zadani](image1.png) ![schema](image.png)
+<p align="center">
+  <img src="image1.png" alt="zadani" width="300"/>
+  <img src="image.png" alt="schema" width="300"/>
+</p>
 
 ### **2. Konfigurace switch**
 1. Otevřete CLI switche a zadejte následující příkazy:
