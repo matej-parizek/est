@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="image1.png" alt="zadani" width="300"/>
-  <img src="image.png" alt="schema" width="300"/>
+  <img src="image1.png" alt="zadani" width="500"/>
+  <img src="image.png" alt="schema" width="500"/>
 </p>
 
 ### **2. Konfigurace switch**
