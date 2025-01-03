@@ -1,7 +1,5 @@
 
-![schema](image.png)
-
-![zadani](image1.png)
+![zadani](image1.png) ![schema](image.png)
 
 ### **2. Konfigurace switch**
 1. Otevřete CLI switche a zadejte následující příkazy:
