@@ -1,3 +1,8 @@
+
+![schema](image.png)
+
+![zadani](images/image.png)
+
 ### **2. Konfigurace switch**
 1. Otevřete CLI switche a zadejte následující příkazy:
    ```bash
